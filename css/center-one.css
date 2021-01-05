@@ -1,0 +1,25 @@
+#calloutTwo {
+    padding-left: 700px;
+    padding-right: 10px;
+    padding-top: 500px;
+
+    position: absolute;
+}
+
+#calloutTwo h1 {
+    text-align: left;
+    font-size: 45px;
+    font-family: Canada, sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+#calloutTwo p {
+    font-size: 25px;
+    font-family: Century;
+    color: rgb(0, 0, 0);
+}
+
+#center-image {
+    pointer-events: none;
+    float: left;
+}

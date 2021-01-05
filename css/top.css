@@ -1,0 +1,23 @@
+#callout {
+    padding-left: 50px;
+    padding-right: 500px;
+    padding-top: 100px;
+}
+
+#callout h1 {
+    text-align: left;
+    font-size: 45px;
+    font-family: Canada, sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+#callout p {
+    font-size: 25px;
+    font-family: Century;
+    color: rgb(0, 0, 0);
+}
+
+#top-image {
+    pointer-events: none;
+    float: right;
+}
