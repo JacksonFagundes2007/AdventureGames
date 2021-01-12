@@ -15,10 +15,10 @@ body {
     background-repeat: no-repeat;
 }
 a {
-    color: rgb(112, 99, 255);
+    color: #cc3e4a;
 }
 ::selection {
-    background-color: rgb(129, 108, 108);
-    color: white;
+    background-color: #8d241c2c;
+    color: #8d241c;
 }
 /* Roots */
